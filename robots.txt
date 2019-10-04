@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://liuquaemoi.rwdmakeover.com/sitemap.xml
